@@ -1,10 +1,10 @@
 # Fraud-Detection-Trends
 
-##Overview:
+## Overview:
 
 This project focuses on fraud analysis using transaction data. It provides insights into fraud trends based on region, time, and transaction size, helping identify key risk factors. The analysis includes fraud rates, transaction distribution, and peak fraud periods through statistical methods and data visualization.
 
-##Dataset:
+## Dataset:
 
 The dataset includes transaction-level fraud details, such as:
 
@@ -18,7 +18,7 @@ Average Fraud Transaction Size ($): The mean value of fraudulent transactions
 
 Peak Fraud Time: The time of day when fraud is most prevalent (Morning, Afternoon, Evening, Night)
 
-##Visualizations:
+## Visualizations:
 
 Fraud Rate & Average Fraud Size: Key fraud statistics summarized in metric cards
 
@@ -30,7 +30,7 @@ Fraud Size Trends by Month: Line chart tracking changes in fraud transaction siz
 
 Fraud Distribution by Time: Pie chart showing fraud percentage across different times of the day
 
-##Results:
+## Results:
 
 Fraud Rate Insights: The average fraud rate across all transactions is 5.04%, with regional variations.
 
